@@ -11,8 +11,7 @@
     }
   ],
   "require": {
-    "php": ">=5.3.2",
-    "roots/acorn": "1 - 2"
+    "php": "^7.4|^8.0"
   },
   "minimum-stability": "dev",
 	"autoload": {
